@@ -1,0 +1,6 @@
+# JetBrains IDE
+.idea/
+/.angular/cache
+
+# Node artifact files
+node_modules/
